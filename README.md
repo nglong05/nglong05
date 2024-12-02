@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.tenor.com/cgelRsiwGlkAAAAi/dance-break.gif" alt="banner" style="max-width: 70%; height: auto;">
+    <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bocchi.gif" alt="banner" style="max-width: 70%; height: auto;">
 </div>
 
 <div align="center">
